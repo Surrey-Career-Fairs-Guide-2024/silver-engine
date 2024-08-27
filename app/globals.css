@@ -72,4 +72,14 @@ html, body {
   overscroll-behavior: none;
   overscroll-behavior-x: none;
   overscroll-behavior-y: none;
+  background-color: rgba(252, 229, 210, 1);
+}
+
+#navBar {
+  background-color: #25384A ;
+  border: 1px solid rgba(245, 175, 49, 0.8);
+
+  svg:hover {
+    color: rgba(242, 143, 38, 1);
+  }
 }
